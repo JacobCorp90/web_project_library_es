@@ -4,7 +4,7 @@
 **Web Project Library (Español)**
 
 ## 2. Descripción del Proyecto y su Funcionalidad
-Este proyecto es una galería digital en formato sitio web que presenta una colección de historias y fotografías de profesionales de distintas partes del mundo. Está diseñado para resaltar sus orígenes únicos y las contribuciones que han hecho a la comunidad. La página combina diseño moderno, estructura clara y un enfoque accesible, ideal para practicar buenas prácticas de maquetación web y responsive design.
+Este proyecto es una galería digital en formato sitio web que presenta una colección de historias y fotografías de profesionales de distintas partes del mundo. Está diseñado para resaltar sus orígenes únicos y las contribuciones que han hecho a la comunidad. La página combina diseño moderno, estructura clara y un enfoque accesible, ideal para practicar buenas prácticas de maquetación web.
 
 ## 3. Descripción de Tecnologías y Técnicas Utilizadas
 - **HTML5**: Estructura semántica del contenido.
